@@ -1,1 +1,0 @@
-import{j as t}from"./index-DXAP7HMK.js";import{$ as r}from"./module-D_kKcQy5.js";function s(){return t.jsx("div",{className:"flex justify-center items-center",children:t.jsx(r,{strokeWidth:"4",strokeColor:"#6b7280",width:"37"})})}export{s as R};
